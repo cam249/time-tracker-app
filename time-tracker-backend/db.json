@@ -1,0 +1,208 @@
+{
+  "employees": [
+    "Tyson",
+    "Daniel",
+    "Ben",
+    "Nathan",
+    "Braden",
+    "Shiloh",
+    "Mike",
+    "Jordan"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "date": "2025-07-14",
+      "client": "Regency Park",
+      "propertyAddress": "3150 GLADWIN ROAD",
+      "service": "Lawn Care",
+      "employees": [
+        "Tyson",
+        "Daniel"
+      ],
+      "timeIn": "08:15",
+      "timeOut": "11:45",
+      "totalHours": "3.50"
+    },
+    {
+      "id": 2,
+      "date": "2025-07-14",
+      "client": "The Evergreens",
+      "propertyAddress": "33800 KING ROAD",
+      "service": "Pruning",
+      "employees": [
+        "Ben",
+        "Nathan"
+      ],
+      "timeIn": "09:00",
+      "timeOut": "12:00",
+      "totalHours": "3.00"
+    },
+    {
+      "id": 3,
+      "date": "2025-07-14",
+      "client": "Garrison Crossing",
+      "propertyAddress": "4500 GARRISON ROAD",
+      "service": "Chemical Application",
+      "employees": [
+        "Braden"
+      ],
+      "timeIn": "13:00",
+      "timeOut": "14:30",
+      "totalHours": "1.50"
+    },
+    {
+      "id": 4,
+      "date": "2025-07-15",
+      "client": "The Springs",
+      "propertyAddress": "34100 OLD YALE ROAD",
+      "service": "Lawn Care",
+      "employees": [
+        "Tyson",
+        "Shiloh"
+      ],
+      "timeIn": "08:00",
+      "timeOut": "10:00",
+      "totalHours": "2.00"
+    },
+    {
+      "id": 5,
+      "date": "2025-07-15",
+      "client": "Sumas Mountain Village",
+      "propertyAddress": "1999 SUMAS WAY",
+      "service": "Irrigation",
+      "employees": [
+        "Daniel"
+      ],
+      "timeIn": "09:30",
+      "timeOut": "11:30",
+      "totalHours": "2.00"
+    },
+    {
+      "startTime": "2025-07-15T13:00:00.000Z",
+      "date": "2025-07-15",
+      "client": "Regency Park",
+      "propertyAddress": "3150 GLADWIN ROAD",
+      "service": "Pruning",
+      "employees": [
+        "Ben",
+        "Nathan"
+      ],
+      "id": 6,
+      "timeIn": "06:00",
+      "timeOut": "15:29",
+      "totalHours": "9.49"
+    },
+    {
+      "startTime": "2025-07-15T14:02:00.000Z",
+      "date": "2025-07-15",
+      "client": "Garrison Crossing",
+      "propertyAddress": "4500 GARRISON ROAD",
+      "service": "Lawn Care",
+      "employees": [
+        "Tyson",
+        "Mike",
+        "Jordan"
+      ],
+      "id": 7,
+      "timeIn": "07:02",
+      "timeOut": "15:29",
+      "totalHours": "8.46"
+    },
+    {
+      "startTime": "2025-07-15T22:29:48.442Z",
+      "id": 8,
+      "date": "2025-07-15",
+      "client": "Regency Park",
+      "propertyAddress": "3150 GLADWIN ROAD",
+      "service": "Lawn Care",
+      "employees": [
+        "Nathan"
+      ],
+      "timeIn": "15:29",
+      "timeOut": "15:35",
+      "totalHours": "0.09"
+    },
+    {
+      "startTime": "2025-07-15T22:41:12.321Z",
+      "id": 9,
+      "date": "2025-07-15",
+      "client": "Regency Park",
+      "propertyAddress": "3150 GLADWIN ROAD",
+      "service": "Planting",
+      "employees": [
+        "Tyson"
+      ],
+      "timeIn": "15:41",
+      "timeOut": "15:56",
+      "totalHours": "0.26"
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "fullName": "Regency Park",
+      "address": "3150 GLADWIN ROAD",
+      "services": {
+        "Lawn Care": 180,
+        "Pruning": 250,
+        "Chemical Application": 20,
+        "Irrigation": 40
+      }
+    },
+    {
+      "id": 2,
+      "fullName": "The Evergreens",
+      "address": "33800 KING ROAD",
+      "services": {
+        "Lawn Care": 200,
+        "Pruning": 300,
+        "Tree Pruning": 40,
+        "Planting": 50
+      }
+    },
+    {
+      "id": 3,
+      "fullName": "Garrison Crossing",
+      "address": "4500 GARRISON ROAD",
+      "services": {
+        "Lawn Care": 220,
+        "Pruning": 280,
+        "Chemical Application": 25,
+        "Hardscaping": 80
+      }
+    },
+    {
+      "id": 4,
+      "fullName": "The Springs",
+      "address": "34100 OLD YALE ROAD",
+      "services": {
+        "Lawn Care": 160,
+        "Pruning": 200,
+        "Fertilizing": 30
+      }
+    },
+    {
+      "id": 5,
+      "fullName": "Sumas Mountain Village",
+      "address": "1999 SUMAS WAY",
+      "services": {
+        "Lawn Care": 250,
+        "Pruning": 350,
+        "Irrigation": 60,
+        "Chemical Application": 30
+      }
+    },
+    {
+      "id": 6,
+      "fullName": "Parallel Apartments",
+      "address": "3462 PLATINUM DRIVE",
+      "services": {
+        "Lawn Care": 140,
+        "Pruning": 180,
+        "Fertilizing": 20
+      }
+    }
+  ],
+  "activeTimers": []
+}
