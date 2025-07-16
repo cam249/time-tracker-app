@@ -1,13 +1,16 @@
 {
   "employees": [
-    "Tyson",
-    "Daniel",
-    "Ben",
-    "Nathan",
-    "Braden",
-    "Shiloh",
-    "Mike",
-    "Jordan"
+    "Fred",
+    "Liam",
+    "Jesse",
+    "Sam",
+    "Kevin",
+    "Anne",
+    "Nicholas",
+    "Tim",
+    "Logan",
+    "Cam",
+    "Gregory"
   ],
   "entries": [
     {
@@ -136,6 +139,23 @@
       "timeIn": "15:41",
       "timeOut": "15:56",
       "totalHours": "0.26"
+    },
+    {
+      "startTime": "2025-07-16T03:01:53.727Z",
+      "id": 10,
+      "date": "2025-07-16",
+      "client": "Herons Landing",
+      "propertyAddress": "44420 Sherry Drive",
+      "service": "Pruning",
+      "employees": [
+        "Sam",
+        "Liam",
+        "Fred",
+        "Jesse"
+      ],
+      "timeIn": "20:01",
+      "timeOut": "20:53",
+      "totalHours": "0.86"
     }
   ],
   "properties": [
@@ -201,6 +221,15 @@
         "Lawn Care": 140,
         "Pruning": 180,
         "Fertilizing": 20
+      }
+    },
+    {
+      "id": 7,
+      "fullName": "Herons Landing",
+      "address": "44420 Sherry Drive",
+      "services": {
+        "Lawn Care": 420,
+        "Pruning": 69
       }
     }
   ],

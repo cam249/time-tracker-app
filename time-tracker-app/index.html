@@ -63,8 +63,10 @@
     <div id="root"></div>
 
     <script type="text/babel">
-        // --- Configuration ---
-        const API_BASE_URL = 'http://localhost:3001/api';
+        // --- const API_BASE_URL = 'http://localhost:3001/api'; ---
+        // --- const API_BASE_URL = 'https://time-tracker-backend-mscl.onrender.com/api'; ---
+
+        const API_BASE_URL = 'https://time-tracker-backend-mscl.onrender.com/api';
 
         // --- Helper Components ---
         const Icon = ({ path, className = "w-6 h-6" }) => (
@@ -146,7 +148,7 @@
                   <div className="flex justify-between items-center h-16">
                     <div className="flex items-center space-x-2 sm:space-x-4">
                       <img className="h-10 w-10" src="https://www.sutherlandlandscaping.org/wp-content/uploads/2022/12/Sutherland_Landscaping_Icon-Green.svg" alt="Sutherland Landscaping Logo" />
-                      <h1 className="text-xl sm:text-2xl font-bold text-white">Sutherland Landscaping</h1>
+                      <h1 className="text-xl sm:text-2xl font-bold text-white">Time Tracker</h1>
                     </div>
                     <div className="flex items-center">
                       {/* Desktop Menu */}
@@ -218,13 +220,59 @@
             );
         };
 
+        const TimeLogView = ({ entries, onEdit, onDelete, properties }) => {
+            const [filter, setFilter] = React.useState('');
+            const [timeLogView, setTimeLogView] = React.useState('list');
+
+            const filteredEntries = React.useMemo(() => {
+                if (!filter) return entries;
+                const lowercasedFilter = filter.toLowerCase();
+                return entries.filter(entry => {
+                    const property = properties.find(p => p.address === entry.propertyAddress);
+                    const clientName = property ? property.fullName : entry.client;
+                    return (
+                        clientName.toLowerCase().includes(lowercasedFilter) ||
+                        entry.propertyAddress.toLowerCase().includes(lowercasedFilter) ||
+                        entry.service.toLowerCase().includes(lowercasedFilter)
+                    );
+                });
+            }, [filter, entries, properties]);
+
+            return (
+                <div>
+                    <div className="flex flex-col sm:flex-row justify-between items-center mb-4 gap-4">
+                        <div className="relative w-full sm:w-1/3">
+                            <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                                <Icon path="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" className="h-5 w-5 text-text-secondary" />
+                            </div>
+                            <input
+                                type="text"
+                                placeholder="Filter by client, address, service..."
+                                value={filter}
+                                onChange={(e) => setFilter(e.target.value)}
+                                className="block w-full p-3 pl-10 rounded-md bg-surface border-primary/30 text-text-main shadow-sm focus:border-primary focus:ring-primary"
+                            />
+                        </div>
+                        <div className="inline-flex rounded-md shadow-sm bg-background p-1">
+                            <button onClick={() => setTimeLogView('list')} className={`px-4 py-2 text-sm font-medium rounded-l-md transition-colors ${timeLogView === 'list' ? 'bg-primary text-white' : 'text-text-secondary hover:bg-surface'}`}>List View</button>
+                            <button onClick={() => setTimeLogView('calendar')} className={`px-4 py-2 text-sm font-medium rounded-r-md transition-colors ${timeLogView === 'calendar' ? 'bg-primary text-white' : 'text-text-secondary hover:bg-surface'}`}>Calendar View</button>
+                        </div>
+                    </div>
+                    {timeLogView === 'list' ? 
+                        <TimeLogTable entries={filteredEntries} onEdit={onEdit} onDelete={onDelete} properties={properties} /> : 
+                        <CalendarView entries={filteredEntries} onEdit={onEdit} properties={properties} />
+                    }
+                </div>
+            );
+        };
+
         const TimeLogTable = ({ entries, onEdit, onDelete, properties }) => {
           if (entries.length === 0) {
             return (
               <div className="text-center py-16 bg-surface rounded-lg shadow-lg border-primary/20">
                 <Icon path="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z" className="mx-auto h-12 w-12 text-text-secondary" />
                 <h3 className="mt-2 text-lg font-medium text-text-main">No time entries found</h3>
-                <p className="mt-1 text-sm text-text-secondary">Get started by adding a new time entry.</p>
+                <p className="mt-1 text-sm text-text-secondary">Try adjusting your filter or adding a new entry.</p>
               </div>
             );
           }
@@ -400,11 +448,22 @@
           );
         };
         
+        const PropertyCard = ({ property, onClick }) => (
+            <button 
+                onClick={onClick}
+                className="bg-surface p-4 rounded-lg shadow-lg flex flex-col items-center justify-center text-center border border-primary/20 hover:bg-primary/20 transition-colors duration-200"
+            >
+                <Icon path="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" className="w-12 h-12 text-primary mb-3" />
+                <h3 className="text-lg font-bold text-text-main truncate">{property.fullName}</h3>
+            </button>
+        );
+
         const ProgressDashboard = ({ entries, properties }) => {
             const [selectedAddress, setSelectedAddress] = React.useState('');
-            React.useEffect(() => { if (properties.length > 0 && !selectedAddress) { setSelectedAddress(properties[0].address); } }, [properties]);
+            
             const selectedProperty = React.useMemo(() => properties.find(p => p.address === selectedAddress), [selectedAddress, properties]);
             const estimatedHoursData = React.useMemo(() => properties.reduce((acc, property) => { acc[property.address] = property.services; return acc; }, {}), [properties]);
+            
             const progressData = React.useMemo(() => {
                 if (!selectedAddress) return { services: [], totals: { visits: 0, manHours: 0, estManHours: 0, progress: 0 } };
                 const propertyEntries = entries.filter(e => e.propertyAddress === selectedAddress);
@@ -421,16 +480,43 @@
                 totals.progress = (totals.estManHours > 0 ? ((totals.manHours / totals.estManHours) * 100) : 0);
                 return { services: servicesArray, totals };
             }, [selectedAddress, entries, estimatedHoursData]);
+
+            const sortedProperties = React.useMemo(() => [...properties].sort((a, b) => a.fullName.localeCompare(b.fullName)), [properties]);
+
             if (properties.length === 0) return (<div className="text-center py-16 bg-surface rounded-lg shadow-lg border-primary/20"><Icon path="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9 5.25h.008v.008H12v-.008z" className="mx-auto h-12 w-12 text-text-secondary" /><h3 className="mt-2 text-lg font-medium text-text-main">No Properties Found</h3><p className="mt-1 text-sm text-text-secondary">Please add a property in the Admin panel to see progress.</p></div>);
+            
             return (
                 <div className="space-y-6">
-                    <div className="flex flex-col sm:flex-row justify-between items-center gap-4"><h1 className="text-3xl font-bold text-white text-center sm:text-left">{selectedProperty ? selectedProperty.fullName : 'Progress Dashboard'}</h1><div className="w-full sm:w-1/3"><select value={selectedAddress} onChange={e => setSelectedAddress(e.target.value)} className="block w-full p-3 rounded-md bg-surface border-primary/30 text-text-main shadow-sm focus:border-primary focus:ring-primary">{properties.map(p => <option key={p.id} value={p.address}>{p.fullName}</option>)}</select></div></div>
-                    <ServiceCardsGrid entries={entries} properties={properties} selectedAddress={selectedAddress} />
-                    <div className="bg-surface shadow-lg rounded-lg p-4 sm:p-6 border border-primary/20"><div className="overflow-x-auto"><table className="min-w-full divide-y divide-primary/20 responsive-table">
-                        <thead className="bg-background/50"><tr><th className="px-6 py-3 text-left text-xs font-medium text-text-secondary uppercase tracking-wider">Service</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider">Visits</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider">Man Hours</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider">Est. Man Hours</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider" style={{width: '20%'}}>Progress</th></tr></thead>
-                        <tbody className="bg-surface divide-y divide-primary/20 md:divide-y-0">{progressData.services.map(service => (<tr key={service.name}><td data-label="Service" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm font-medium text-text-main">{service.name}</td><td data-label="Visits" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary">{service.visits}</td><td data-label="Man Hours" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary">{service.manHours.toFixed(2)}</td><td data-label="Est. Man Hours" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary">{service.estManHours}</td><td data-label="Progress" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary"><div className="flex items-center justify-end md:justify-start"><div className="w-full"><ProgressBar progress={service.progress} /></div><span className="font-semibold w-16 text-right ml-2 text-text-main">{service.progress.toFixed(0)}%</span></div></td></tr>))}</tbody>
-                        <tfoot className="bg-background/50"><tr><th data-label="Total" className="px-6 py-2 md:py-4 text-sm font-bold text-white uppercase">Total</th><td data-label="Total Visits" className="px-6 py-2 md:py-4 text-sm font-bold text-white">{progressData.totals.visits}</td><td data-label="Total Man Hours" className="px-6 py-2 md:py-4 text-sm font-bold text-white">{progressData.totals.manHours?.toFixed(2)}</td><td data-label="Total Est. Hours" className="px-6 py-2 md:py-4 text-sm font-bold text-white">{progressData.totals.estManHours}</td><td data-label="Total Progress" className="px-6 py-2 md:py-4 text-sm font-bold text-white"><div className="flex items-center justify-end md:justify-start"><div className="w-full"><ProgressBar progress={progressData.totals.progress} /></div><span className="font-semibold w-16 text-right ml-2">{progressData.totals.progress.toFixed(0)}%</span></div></td></tr></tfoot>
-                    </table></div></div>
+                    {!selectedAddress ? (
+                        <>
+                            <h1 className="text-3xl font-bold text-white">Select a Property</h1>
+                            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                                {sortedProperties.map(prop => (
+                                    <PropertyCard key={prop.id} property={prop} onClick={() => setSelectedAddress(prop.address)} />
+                                ))}
+                            </div>
+                        </>
+                    ) : (
+                        <>
+                            <div className="flex justify-between items-center">
+                                <h1 className="text-3xl font-bold text-white">{selectedProperty?.fullName}</h1>
+                                <button onClick={() => setSelectedAddress('')} className="flex items-center space-x-2 text-sm font-medium text-accent-yellow hover:text-opacity-80">
+                                    <Icon path="M11.25 9l-3 3m0 0l3 3m-3-3h7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" className="w-5 h-5" />
+                                    <span>Back to All Properties</span>
+                                </button>
+                            </div>
+                            <ServiceCardsGrid entries={entries} properties={properties} selectedAddress={selectedAddress} />
+                            <div className="bg-surface shadow-lg rounded-lg p-4 sm:p-6 border border-primary/20">
+                                <div className="overflow-x-auto">
+                                    <table className="min-w-full divide-y divide-primary/20 responsive-table">
+                                        <thead className="bg-background/50"><tr><th className="px-6 py-3 text-left text-xs font-medium text-text-secondary uppercase tracking-wider">Service</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider">Visits</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider">Man Hours</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider">Est. Man Hours</th><th className="px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider" style={{width: '20%'}}>Progress</th></tr></thead>
+                                        <tbody className="bg-surface divide-y divide-primary/20 md:divide-y-0">{progressData.services.map(service => (<tr key={service.name}><td data-label="Service" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm font-medium text-text-main">{service.name}</td><td data-label="Visits" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary">{service.visits}</td><td data-label="Man Hours" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary">{service.manHours.toFixed(2)}</td><td data-label="Est. Man Hours" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary">{service.estManHours}</td><td data-label="Progress" className="px-6 py-2 md:py-4 whitespace-nowrap text-sm text-text-secondary"><div className="flex items-center justify-end md:justify-start"><div className="w-full"><ProgressBar progress={service.progress} /></div><span className="font-semibold w-16 text-right ml-2 text-text-main">{service.progress.toFixed(0)}%</span></div></td></tr>))}</tbody>
+                                        <tfoot className="bg-background/50"><tr><th data-label="Total" className="px-6 py-2 md:py-4 text-sm font-bold text-white uppercase">Total</th><td data-label="Total Visits" className="px-6 py-2 md:py-4 text-sm font-bold text-white">{progressData.totals.visits}</td><td data-label="Total Man Hours" className="px-6 py-2 md:py-4 text-sm font-bold text-white">{progressData.totals.manHours?.toFixed(2)}</td><td data-label="Total Est. Hours" className="px-6 py-2 md:py-4 text-sm font-bold text-white">{progressData.totals.estManHours}</td><td data-label="Total Progress" className="px-6 py-2 md:py-4 text-sm font-bold text-white"><div className="flex items-center justify-end md:justify-start"><div className="w-full"><ProgressBar progress={progressData.totals.progress} /></div><span className="font-semibold w-16 text-right ml-2">{progressData.totals.progress.toFixed(0)}%</span></div></td></tr></tfoot>
+                                    </table>
+                                </div>
+                            </div>
+                        </>
+                    )}
                 </div>
             );
         };
@@ -532,7 +618,6 @@
           const [isFormOpen, setIsFormOpen] = React.useState(false);
           const [currentEntry, setCurrentEntry] = React.useState(null);
           const [view, setView] = React.useState('timers');
-          const [timeLogView, setTimeLogView] = React.useState('list');
           const [activeTimers, setActiveTimers] = React.useState([]);
           
           const fetchData = async () => {
@@ -543,7 +628,7 @@
               setEmployees(data.employees || []);
               setEntries(data.entries.sort((a, b) => new Date(b.date) - new Date(a.date) || b.id - a.id) || []);
               setProperties(data.properties || []);
-              setActiveTimers(data.activeTimers || []); // Load active timers from server
+              setActiveTimers(data.activeTimers || []);
             } catch (error) { console.error("Failed to fetch data:", error); }
           };
           React.useEffect(() => { fetchData(); }, []);
@@ -630,7 +715,7 @@
               <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
                 
                 {view === 'timers' && <TimersView timers={activeTimers} onStop={handleStopTimer} properties={properties} />}
-                {view === 'log' && (<div><div className="mb-4 flex justify-center sm:justify-start"><div className="inline-flex rounded-md shadow-sm bg-background p-1"><button onClick={() => setTimeLogView('list')} className={`px-4 py-2 text-sm font-medium rounded-l-md transition-colors ${timeLogView === 'list' ? 'bg-primary text-white' : 'text-text-secondary hover:bg-surface'}`}>List View</button><button onClick={() => setTimeLogView('calendar')} className={`px-4 py-2 text-sm font-medium rounded-r-md transition-colors ${timeLogView === 'calendar' ? 'bg-primary text-white' : 'text-text-secondary hover:bg-surface'}`}>Calendar View</button></div></div>{timeLogView === 'list' ? <TimeLogTable entries={entries} onEdit={handleEdit} onDelete={handleDelete} properties={properties} /> : <CalendarView entries={entries} onEdit={handleEdit} properties={properties} />}</div>)}
+                {view === 'log' && <TimeLogView entries={entries} onEdit={handleEdit} onDelete={handleDelete} properties={properties} />}
                 {view === 'progress' && <ProgressDashboard entries={entries} properties={properties} />}
                 {view === 'admin' && <AdminDashboard properties={properties} employees={employees} onPropertySave={handlePropertySave} onPropertyDelete={handlePropertyDelete} onEmployeeAdd={handleEmployeeAdd} onEmployeeDelete={handleEmployeeDelete} />}
               </main>
