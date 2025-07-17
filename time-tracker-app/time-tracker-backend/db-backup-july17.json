@@ -215,7 +215,7 @@
       "date": "2025-01-06",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -231,7 +231,7 @@
       "date": "2025-01-06",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Leaf Cleanup",
+      "service": "Leaf",
       "employees": [
         "Sam",
         "Ann",
@@ -247,7 +247,7 @@
       "date": "2025-01-06",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Leaf Cleanup",
+      "service": "Leaf",
       "employees": [
         "Sam",
         "Ann",
@@ -634,7 +634,7 @@
       "date": "2025-01-10",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -710,7 +710,7 @@
       "date": "2025-01-13",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -725,7 +725,7 @@
       "date": "2025-01-13",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -738,7 +738,7 @@
       "date": "2025-01-13",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Liam"
@@ -765,7 +765,7 @@
       "date": "2025-01-13",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -808,7 +808,7 @@
       "date": "2025-01-14",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -823,7 +823,7 @@
       "date": "2025-01-14",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -836,7 +836,7 @@
       "date": "2025-01-14",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Liam"
@@ -863,7 +863,7 @@
       "date": "2025-01-14",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -904,7 +904,7 @@
       "date": "2025-01-15",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -1037,7 +1037,7 @@
       "date": "2025-01-16",
       "client": "Seven Oaks",
       "propertyAddress": "Seven Oaks",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1355,7 +1355,7 @@
       "date": "2025-01-22",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Liam"
@@ -1426,7 +1426,7 @@
       "date": "2025-01-23",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -1452,7 +1452,7 @@
       "date": "2025-01-23",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Leaf Cleanup",
+      "service": "Leaf",
       "employees": [
         "Sam"
       ],
@@ -1465,7 +1465,7 @@
       "date": "2025-01-23",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Leaf Cleanup",
+      "service": "Leaf",
       "employees": [
         "Ann"
       ],
@@ -1506,7 +1506,7 @@
       "date": "2025-01-23",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -1533,7 +1533,7 @@
       "date": "2025-01-23",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -1546,7 +1546,7 @@
       "date": "2025-01-23",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1587,7 +1587,7 @@
       "date": "2025-01-24",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -1601,7 +1601,7 @@
       "date": "2025-01-24",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -1615,7 +1615,7 @@
       "date": "2025-01-24",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -1702,7 +1702,7 @@
       "date": "2025-01-27",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1715,7 +1715,7 @@
       "date": "2025-01-27",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -1741,7 +1741,7 @@
       "date": "2025-01-27",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1795,7 +1795,7 @@
       "date": "2025-01-28",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -1808,7 +1808,7 @@
       "date": "2025-01-28",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1849,7 +1849,7 @@
       "date": "2025-01-29",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1862,7 +1862,7 @@
       "date": "2025-01-29",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -1888,7 +1888,7 @@
       "date": "2025-01-29",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -1933,7 +1933,7 @@
       "date": "2025-01-30",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -2813,7 +2813,7 @@
       "date": "2025-02-19",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Tim",
@@ -2829,7 +2829,7 @@
       "date": "2025-02-19",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -2964,7 +2964,7 @@
       "date": "2025-02-21",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -3008,7 +3008,7 @@
       "date": "2025-02-21",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -3129,11 +3129,9 @@
       "date": "2025-02-24",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "15:50",
@@ -3144,7 +3142,7 @@
       "date": "2025-02-24",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -3158,7 +3156,7 @@
       "date": "2025-02-24",
       "client": "Seven Oaks",
       "propertyAddress": "Seven Oaks",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -3185,7 +3183,7 @@
       "date": "2025-02-24",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Liam"
       ],
@@ -3198,7 +3196,7 @@
       "date": "2025-02-24",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -3211,7 +3209,7 @@
       "date": "2025-02-24",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -3241,9 +3239,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicolas"
+        "Tim Ann Nicolas"
       ],
       "TimeIn": "15:50",
       "TimeOut": "16:00",
@@ -3271,7 +3267,7 @@
       "date": "2025-02-25",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -3334,7 +3330,7 @@
       "date": "2025-02-26",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Leaf Cleanup",
+      "service": "Leaf",
       "employees": [
         "Ann",
         "Nicholas"
@@ -3348,7 +3344,7 @@
       "date": "2025-02-26",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -3362,7 +3358,7 @@
       "date": "2025-02-26",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Leaf Cleanup",
+      "service": "Leaf",
       "employees": [
         "Sam",
         "Liam"
@@ -3453,7 +3449,7 @@
       "date": "2025-02-27",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Liam",
@@ -3468,7 +3464,7 @@
       "date": "2025-02-27",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -3498,9 +3494,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam",
+        "Tim Ann Liam",
         "Nicholas"
       ],
       "TimeIn": "07:30",
@@ -3525,12 +3519,9 @@
       "date": "2025-02-28",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Ann Liam Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "11:15",
@@ -3541,7 +3532,7 @@
       "date": "2025-02-28",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -3554,11 +3545,9 @@
       "date": "2025-02-28",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
-        "Sam",
-        "Liam",
-        "Nicholas"
+        "Sam Liam Nicholas"
       ],
       "TimeIn": "11:15",
       "TimeOut": "12:30",
@@ -3569,10 +3558,9 @@
       "date": "2025-02-28",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "11:15",
       "TimeOut": "12:30",
@@ -3583,7 +3571,7 @@
       "date": "2025-02-28",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Nicolas"
@@ -3599,9 +3587,7 @@
       "propertyAddress": "Market Way",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam"
+        "Tim Ann Liam"
       ],
       "TimeIn": "12:30",
       "TimeOut": "15:15",
@@ -3657,9 +3643,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam"
+        "Tim Ann Liam"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -3672,14 +3656,9 @@
       "propertyAddress": "Unbilled",
       "service": "Meeting",
       "employees": [
-        "Tim",
-        "Liam",
-        "Sam",
-        "Ann",
-        "Nicholas",
+        "Tim Liam Sam Ann Nicholas",
         "Jesse",
-        "Kevin",
-        "Greg"
+        "Kevin Greg"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:15",
@@ -3706,9 +3685,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "08:15",
       "TimeOut": "08:45",
@@ -3732,7 +3709,7 @@
       "date": "2025-03-03",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -3747,9 +3724,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "08:45",
       "TimeOut": "16:10",
@@ -3760,7 +3735,7 @@
       "date": "2025-03-03",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -3773,7 +3748,7 @@
       "date": "2025-03-03",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -3786,7 +3761,7 @@
       "date": "2025-03-03",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Ann"
       ],
@@ -3799,7 +3774,7 @@
       "date": "2025-03-03",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Ann"
@@ -3842,10 +3817,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Greg",
-        "Liam"
+        "Tim Ann Greg Liam sam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -3856,12 +3828,9 @@
       "date": "2025-03-04",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Ann",
-        "Greg",
-        "Liam"
+        "Tim Ann Greg Liam sam Nich"
       ],
       "TimeIn": "07:45",
       "TimeOut": "08:00",
@@ -3872,7 +3841,7 @@
       "date": "2025-03-04",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Ann",
@@ -3887,11 +3856,9 @@
       "date": "2025-03-04",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Greg",
-        "Nicholas"
+        "Tim Greg Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "14:00",
@@ -3902,7 +3869,7 @@
       "date": "2025-03-04",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Liam"
@@ -3916,7 +3883,7 @@
       "date": "2025-03-04",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -3931,9 +3898,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Greg",
-        "Nicholas"
+        "Tim Greg Nicholas"
       ],
       "TimeIn": "14:00",
       "TimeOut": "15:45",
@@ -3960,11 +3925,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Sam",
-        "Ann"
+        "Tim Greg Liam Sam Ann"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:15",
@@ -3977,10 +3938,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Ann Liam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -3991,7 +3949,7 @@
       "date": "2025-03-05",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Tim"
       ],
@@ -4004,11 +3962,9 @@
       "date": "2025-03-05",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Ann Liam Nicholas"
       ],
       "TimeIn": "07:45",
       "TimeOut": "10:00",
@@ -4019,11 +3975,9 @@
       "date": "2025-03-05",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Ann Liam Nicholas"
       ],
       "TimeIn": "10:00",
       "TimeOut": "15:00",
@@ -4034,7 +3988,7 @@
       "date": "2025-03-05",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Tim"
       ],
@@ -4047,11 +4001,9 @@
       "date": "2025-03-05",
       "client": "Zion",
       "propertyAddress": "Zion",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Ann Liam Nicholas"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:00",
@@ -4062,7 +4014,7 @@
       "date": "2025-03-05",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -4090,9 +4042,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Ann Liam Nicholas"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -4132,7 +4082,7 @@
       "date": "2025-03-06",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Liam",
@@ -4147,7 +4097,7 @@
       "date": "2025-03-06",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Tim"
       ],
@@ -4190,12 +4140,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Greg",
-        "Liam",
-        "Sam",
-        "Ann"
+        "Tim Kevin Greg Liam Sam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -4206,7 +4151,7 @@
       "date": "2025-03-07",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Liam",
         "Greg"
@@ -4220,7 +4165,7 @@
       "date": "2025-03-07",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Ann"
@@ -4234,7 +4179,7 @@
       "date": "2025-03-07",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -4249,9 +4194,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas"
+        "Tim Kevin Nicholas"
       ],
       "TimeIn": "10:00",
       "TimeOut": "15:40",
@@ -4262,10 +4205,9 @@
       "date": "2025-03-07",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Sam",
-        "Ann"
+        "Sam Ann"
       ],
       "TimeIn": "11:30",
       "TimeOut": "15:00",
@@ -4294,8 +4236,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin"
+        "Tim Kevin"
       ],
       "TimeIn": "15:40",
       "TimeOut": "16:00",
@@ -4336,7 +4277,7 @@
       "date": "2025-03-10",
       "client": "Zion",
       "propertyAddress": "Zion",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim",
         "Sam",
@@ -4353,11 +4294,9 @@
       "date": "2025-03-10",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "10:00",
       "TimeOut": "10:30",
@@ -4368,10 +4307,9 @@
       "date": "2025-03-10",
       "client": "Zion",
       "propertyAddress": "Zion",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
-        "Sam",
-        "Ann"
+        "Sam Ann"
       ],
       "TimeIn": "10:00",
       "TimeOut": "10:30",
@@ -4382,7 +4320,7 @@
       "date": "2025-03-10",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -4398,7 +4336,7 @@
       "date": "2025-03-10",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -4411,7 +4349,7 @@
       "date": "2025-03-10",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -4534,7 +4472,7 @@
       "date": "2025-03-14",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -4637,11 +4575,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "08:45",
       "TimeOut": "15:30",
@@ -4654,8 +4588,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Liam"
+        "Tim Liam"
       ],
       "TimeIn": "15:30",
       "TimeOut": "15:45",
@@ -4668,11 +4601,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -4683,7 +4612,7 @@
       "date": "2025-03-18",
       "client": "40881 NO 1 Rd",
       "propertyAddress": "40881 NO 1 Rd",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Liam"
@@ -4697,7 +4626,7 @@
       "date": "2025-03-18",
       "client": "40881 NO 1 Rd",
       "propertyAddress": "40881 NO 1 Rd",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim",
         "Ann",
@@ -4712,7 +4641,7 @@
       "date": "2025-03-18",
       "client": "40881 NO 1 Rd",
       "propertyAddress": "40881 NO 1 Rd",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -4726,7 +4655,7 @@
       "date": "2025-03-18",
       "client": "38819 Vye Rd",
       "propertyAddress": "38819 Vye Rd",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Sam"
@@ -4740,7 +4669,7 @@
       "date": "2025-03-18",
       "client": "38819 Vye Rd",
       "propertyAddress": "38819 Vye Rd",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim",
         "Liam"
@@ -4754,7 +4683,7 @@
       "date": "2025-03-18",
       "client": "38819 Vye Rd",
       "propertyAddress": "38819 Vye Rd",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Ann"
@@ -4768,7 +4697,7 @@
       "date": "2025-03-18",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -4781,10 +4710,9 @@
       "date": "2025-03-18",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "10:40",
       "TimeOut": "16:00",
@@ -4795,10 +4723,9 @@
       "date": "2025-03-18",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Sam",
-        "Ann"
+        "Sam Ann"
       ],
       "TimeIn": "10:40",
       "TimeOut": "13:15",
@@ -4809,10 +4736,9 @@
       "date": "2025-03-18",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Sam",
-        "Ann"
+        "Sam Ann"
       ],
       "TimeIn": "13:15",
       "TimeOut": "16:00",
@@ -4821,9 +4747,9 @@
     {
       "id": 337,
       "date": "2025-03-18",
-      "client": "Unbilled",
-      "propertyAddress": "Unbilled",
-      "service": "Meeting",
+      "client": "Meeting with Fred",
+      "propertyAddress": "Meeting with Fred",
+      "service": "nan",
       "employees": [
         "Tim"
       ],
@@ -4838,11 +4764,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Liam",
-        "Sam",
-        "Ann",
-        "Nicholas"
+        "Tim Liam Sam Ann Nicholas"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:15",
@@ -4855,8 +4777,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Sam"
+        "Tim Sam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "12:15",
@@ -4867,11 +4788,9 @@
       "date": "2025-03-19",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Liam Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "12:15",
@@ -4884,11 +4803,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -4901,11 +4816,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "12:15",
       "TimeOut": "15:45",
@@ -4918,9 +4829,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "15:45",
       "TimeOut": "15:55",
@@ -4961,7 +4870,7 @@
       "date": "2025-03-20",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Nicolas"
@@ -4975,7 +4884,7 @@
       "date": "2025-03-20",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Liam"
@@ -4991,9 +4900,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -5004,11 +4911,9 @@
       "date": "2025-03-21",
       "client": "Vantage",
       "propertyAddress": "Vantage",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "07:45",
       "TimeOut": "08:50",
@@ -5021,9 +4926,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "08:50",
       "TimeOut": "16:05",
@@ -5036,8 +4939,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "16:05",
       "TimeOut": "16:20",
@@ -5050,8 +4952,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "16:20",
       "TimeOut": "16:30",
@@ -5064,10 +4965,7 @@
       "propertyAddress": "Unbilled",
       "service": "Meeting",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam",
-        "Nicholas"
+        "Tim Ann Sam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -5080,10 +4978,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam",
-        "Nicholas"
+        "Tim Ann Sam Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "08:30",
@@ -5096,10 +4991,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam",
-        "Nicholas"
+        "Tim Ann Sam Nicholas"
       ],
       "TimeIn": "08:30",
       "TimeOut": "15:45",
@@ -5151,10 +5043,7 @@
       "propertyAddress": "Unbilled",
       "service": "Meeting",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Liam Ann Sam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:15",
@@ -5167,10 +5056,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Liam Ann Sam"
       ],
       "TimeIn": "08:15",
       "TimeOut": "08:45",
@@ -5183,10 +5069,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Liam Ann Sam"
       ],
       "TimeIn": "08:45",
       "TimeOut": "13:45",
@@ -5199,10 +5082,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Liam Ann Sam"
       ],
       "TimeIn": "13:45",
       "TimeOut": "15:25",
@@ -5215,10 +5095,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Liam Ann Sam"
       ],
       "TimeIn": "15:25",
       "TimeOut": "16:00",
@@ -5231,10 +5108,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Liam Ann Sam"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:15",
@@ -5247,10 +5121,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam"
+        "Tim Sam Ann Liam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:50",
@@ -5263,10 +5134,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam"
+        "Tim Sam Ann Liam"
       ],
       "TimeIn": "07:50",
       "TimeOut": "15:10",
@@ -5279,10 +5147,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam"
+        "Tim Sam Ann Liam"
       ],
       "TimeIn": "15:10",
       "TimeOut": "15:20",
@@ -5295,10 +5160,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam"
+        "Tim Sam Ann Liam"
       ],
       "TimeIn": "15:20",
       "TimeOut": "16:00",
@@ -5311,9 +5173,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Liam"
+        "Tim Kevin Liam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -5340,9 +5200,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Liam"
+        "Tim Kevin Liam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "12:30",
@@ -5410,8 +5268,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Liam"
+        "Kevin Liam"
       ],
       "TimeIn": "12:30",
       "TimeOut": "14:00",
@@ -5438,8 +5295,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Liam"
+        "Kevin Liam"
       ],
       "TimeIn": "14:00",
       "TimeOut": "15:30",
@@ -5468,11 +5324,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -5485,11 +5337,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "15:30",
@@ -5502,10 +5350,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann"
+        "Tim Sam Liam Ann"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -5558,7 +5403,7 @@
       "date": "2025-04-04",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -5572,11 +5417,9 @@
       "date": "2025-04-04",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Greg",
-        "Nicholas"
+        "Tim Greg Nicholas"
       ],
       "TimeIn": "12:40",
       "TimeOut": "14:00",
@@ -5587,7 +5430,7 @@
       "date": "2025-04-04",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -5617,11 +5460,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "08:15",
       "TimeOut": "08:50",
@@ -5634,8 +5473,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam"
+        "Tim Liam"
       ],
       "TimeIn": "08:50",
       "TimeOut": "13:50",
@@ -5648,9 +5486,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Ann",
-        "Nicholas"
+        "Sam Ann Nicholas"
       ],
       "TimeIn": "08:50",
       "TimeOut": "13:00",
@@ -5678,8 +5514,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam"
+        "Tim Liam"
       ],
       "TimeIn": "14:10",
       "TimeOut": "15:30",
@@ -5692,8 +5527,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam"
+        "Tim Liam"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:00",
@@ -5706,8 +5540,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam"
+        "Tim Liam"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:15",
@@ -5735,12 +5568,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Cam",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Cam Sam Ann Liam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -5753,12 +5581,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Cam",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Cam Sam Ann Liam Nicholas"
       ],
       "TimeIn": "07:45",
       "TimeOut": "15:30",
@@ -5771,12 +5594,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Cam",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Cam Sam Ann Liam Nicholas"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -5926,7 +5744,7 @@
       "date": "2025-04-09",
       "client": "Seven Oaks",
       "propertyAddress": "Seven Oaks",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Liam",
         "Nicolas"
@@ -5940,7 +5758,7 @@
       "date": "2025-04-09",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -6160,11 +5978,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "08:20",
       "TimeOut": "08:50",
@@ -6177,11 +5991,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Liam Ann Nicholas"
       ],
       "TimeIn": "08:50",
       "TimeOut": "13:00",
@@ -6209,8 +6019,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "14:00",
@@ -6223,8 +6032,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "14:00",
       "TimeOut": "15:00",
@@ -6332,11 +6140,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Liam Nicholas Sam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -6349,9 +6153,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "07:45",
       "TimeOut": "09:20",
@@ -6403,9 +6205,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "09:20",
       "TimeOut": "10:40",
@@ -6432,9 +6232,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "10:40",
       "TimeOut": "12:00",
@@ -6447,9 +6245,7 @@
       "propertyAddress": "Still Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "12:00",
       "TimeOut": "15:45",
@@ -6521,7 +6317,7 @@
       "date": "2025-04-17",
       "client": "Vantage",
       "propertyAddress": "Vantage",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Liam",
@@ -6581,10 +6377,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Liam",
-        "Ann"
+        "Tim Kevin Liam Ann nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "13:15",
@@ -6597,8 +6390,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Ann",
-        "Liam"
+        "Ann Liam"
       ],
       "TimeIn": "13:15",
       "TimeOut": "13:50",
@@ -6611,8 +6403,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin"
+        "Tim Kevin nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:30",
@@ -6625,8 +6416,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Ann",
-        "Liam"
+        "Ann Liam"
       ],
       "TimeIn": "13:50",
       "TimeOut": "15:35",
@@ -6639,8 +6429,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin"
+        "Tim Kevin nicholas Ann liam"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -6653,12 +6442,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Kevin",
-        "Cam"
+        "Tim Ann Liam Nicholas Kevin Cam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:50",
@@ -6684,8 +6468,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "07:50",
       "TimeOut": "13:15",
@@ -6698,9 +6481,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Cam"
+        "Tim Ann Cam"
       ],
       "TimeIn": "07:50",
       "TimeOut": "15:45",
@@ -6724,7 +6505,7 @@
       "date": "2025-04-22",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -6739,8 +6520,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "13:15",
       "TimeOut": "14:10",
@@ -6753,8 +6533,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "14:30",
       "TimeOut": "15:55",
@@ -6767,10 +6546,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Ann Liam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:50",
@@ -6783,8 +6559,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "07:50",
       "TimeOut": "09:30",
@@ -6797,8 +6572,7 @@
       "propertyAddress": "Herons Landing",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "07:50",
       "TimeOut": "10:00",
@@ -6809,7 +6583,7 @@
       "date": "2025-04-23",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -6822,10 +6596,9 @@
       "date": "2025-04-23",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "09:30",
       "TimeOut": "13:05",
@@ -6838,8 +6611,7 @@
       "propertyAddress": "Vandell Drive",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "10:00",
       "TimeOut": "11:00",
@@ -6852,8 +6624,7 @@
       "propertyAddress": "Market Way",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "11:00",
       "TimeOut": "11:45",
@@ -6866,8 +6637,7 @@
       "propertyAddress": "Still Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "11:45",
       "TimeOut": "15:45",
@@ -6878,10 +6648,9 @@
       "date": "2025-04-23",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "13:05",
       "TimeOut": "15:45",
@@ -6894,9 +6663,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann"
+        "Tim Liam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -6909,10 +6676,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Nicholas"
+        "Tim Liam Ann Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "15:00",
@@ -6923,7 +6687,7 @@
       "date": "2025-04-24",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -6949,7 +6713,7 @@
       "date": "2025-04-24",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -6964,9 +6728,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann"
+        "Tim Liam Ann"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:30",
@@ -6992,10 +6754,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -7006,12 +6765,9 @@
       "date": "2025-04-25",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Ann Nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "15:45",
@@ -7024,10 +6780,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Nicholas"
+        "Tim Sam Ann Nicholas"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:00",
@@ -7057,10 +6810,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Liam Nicholas Sam Ann"
       ],
       "TimeIn": "08:30",
       "TimeOut": "09:00",
@@ -7087,9 +6837,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "12:40",
@@ -7102,9 +6850,7 @@
       "propertyAddress": "Still Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "12:40",
       "TimeOut": "13:15",
@@ -7117,9 +6863,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:15",
@@ -7160,11 +6904,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Liam Nicholas Sam Ann"
       ],
       "TimeIn": "15:15",
       "TimeOut": "15:45",
@@ -7177,11 +6917,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Liam Nicholas Sam Ann"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:45",
@@ -7194,11 +6930,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas",
-        "Liam",
-        "Sam"
+        "Tim Ann Nicholas Liam Sam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -7211,7 +6943,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Liam"
+        "Liam sam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "12:30",
@@ -7224,10 +6956,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas",
-        "Cam"
+        "Tim Ann Nicholas Cam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "16:00",
@@ -7238,9 +6967,9 @@
       "date": "2025-04-29",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
-        "Liam"
+        "Liam sam"
       ],
       "TimeIn": "12:30",
       "TimeOut": "16:00",
@@ -7267,9 +6996,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:50",
@@ -7282,9 +7009,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "07:50",
       "TimeOut": "09:20",
@@ -7295,7 +7020,7 @@
       "date": "2025-04-30",
       "client": "Still Creek",
       "propertyAddress": "Still Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -7311,9 +7036,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "09:20",
       "TimeOut": "10:50",
@@ -7324,7 +7047,7 @@
       "date": "2025-04-30",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -7338,7 +7061,7 @@
       "date": "2025-04-30",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -7353,8 +7076,7 @@
       "propertyAddress": "Market Way",
       "service": "Lawn Care",
       "employees": [
-        "Ann",
-        "Nicholas"
+        "Ann Nicholas"
       ],
       "TimeIn": "10:50",
       "TimeOut": "12:00",
@@ -7365,7 +7087,7 @@
       "date": "2025-04-30",
       "client": "Seven Oaks",
       "propertyAddress": "Seven Oaks",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -7379,7 +7101,7 @@
       "date": "2025-04-30",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -7395,9 +7117,7 @@
       "propertyAddress": "Vandell Drive",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "12:00",
       "TimeOut": "13:30",
@@ -7408,7 +7128,7 @@
       "date": "2025-04-30",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -7438,9 +7158,7 @@
       "propertyAddress": "Herons Landing",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:45",
@@ -7451,7 +7169,7 @@
       "date": "2025-04-30",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam",
         "Liam"
@@ -7481,9 +7199,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas"
+        "Tim Ann Nicholas"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:00",
@@ -7496,11 +7212,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Greg",
-        "Cam",
-        "Sam",
-        "Ann"
+        "Tim Greg Cam Sam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -7513,11 +7225,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Greg",
-        "Cam",
-        "Ann",
-        "Nicholas"
+        "Tim Greg Cam Ann Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "13:30",
@@ -7541,7 +7249,7 @@
       "date": "2025-05-01",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -7554,13 +7262,9 @@
       "date": "2025-05-01",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Greg",
-        "Cam",
-        "Ann",
-        "Nicholas"
+        "Tim Greg Cam Ann Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "16:00",
@@ -7573,11 +7277,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Greg",
-        "Cam",
-        "Ann",
-        "Sam"
+        "Tim Greg Cam Ann Sam"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -7648,7 +7348,7 @@
       "date": "2025-05-02",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -7720,11 +7420,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Sam",
-        "Ann"
+        "Tim Greg Liam Sam Ann"
       ],
       "TimeIn": "08:45",
       "TimeOut": "13:00",
@@ -7764,10 +7460,7 @@
       "propertyAddress": "Tim",
       "service": "Lawn Care",
       "employees": [
-        "Nicholas",
-        "Greg",
-        "Liam",
-        "Tim"
+        "Nicholas Greg Liam Tim"
       ],
       "TimeIn": "13:00",
       "TimeOut": "13:30",
@@ -7780,10 +7473,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Nicholas",
-        "Greg",
-        "Liam",
-        "Tim"
+        "Nicholas Greg Liam Tim"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:00",
@@ -7808,14 +7498,9 @@
       "date": "2025-05-05",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Nicholas",
-        "Greg",
-        "Liam",
-        "Tim",
-        "Sam",
-        "Ann"
+        "Nicholas Greg Liam Tim Sam Ann"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:15",
@@ -7828,11 +7513,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Greg",
-        "Liam",
-        "Tim",
-        "Sam",
-        "Ann"
+        "Greg Liam Tim Sam Ann"
       ],
       "TimeIn": "16:15",
       "TimeOut": "16:45",
@@ -7845,12 +7526,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas",
-        "Greg"
+        "Tim Sam Liam Ann Nicholas Greg"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:50",
@@ -7863,13 +7539,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas",
-        "Greg",
-        "Cam"
+        "Tim Sam Liam Ann Nicholas Greg Cam"
       ],
       "TimeIn": "07:50",
       "TimeOut": "12:30",
@@ -7895,9 +7565,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Liam",
-        "Ann"
+        "Sam Liam Ann nicholas Greg"
       ],
       "TimeIn": "12:30",
       "TimeOut": "13:30",
@@ -7921,10 +7589,9 @@
       "date": "2025-05-06",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Liam",
-        "Ann"
+        "Liam Ann nicholas Greg"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:30",
@@ -7937,8 +7604,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Liam",
-        "Ann"
+        "Liam Ann nicholas Greg Tim"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -7951,10 +7617,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:30",
@@ -7965,7 +7628,7 @@
       "date": "2025-05-07",
       "client": "Vantage",
       "propertyAddress": "Vantage",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -7981,10 +7644,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "08:30",
       "TimeOut": "10:00",
@@ -7997,10 +7657,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "10:00",
       "TimeOut": "11:00",
@@ -8027,10 +7684,7 @@
       "propertyAddress": "Meadowview",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "11:00",
       "TimeOut": "14:00",
@@ -8067,12 +7721,9 @@
       "date": "2025-05-07",
       "client": "Meadowview",
       "propertyAddress": "Meadowview",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "14:00",
       "TimeOut": "15:00",
@@ -8098,10 +7749,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:00",
@@ -8127,10 +7775,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -8157,11 +7802,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Cam"
+        "Tim Sam Ann Greg Cam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:15",
@@ -8174,12 +7815,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Nicholas",
-        "Cam"
+        "Tim Sam Ann Greg Nicholas Cam"
       ],
       "TimeIn": "08:15",
       "TimeOut": "14:15",
@@ -8190,14 +7826,9 @@
       "date": "2025-05-08",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Nicholas",
-        "Cam"
+        "Tim Sam Ann Greg Nicholas Cam"
       ],
       "TimeIn": "14:15",
       "TimeOut": "16:00",
@@ -8210,11 +7841,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Cam"
+        "Tim Sam Ann Greg Cam"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -8227,12 +7854,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Nicholas",
-        "Liam"
+        "Tim Sam Ann Greg Nicholas Liam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -8243,14 +7865,9 @@
       "date": "2025-05-09",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Nicholas",
-        "Liam"
+        "Tim Sam Ann Greg Nicholas Liam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "10:15",
@@ -8261,14 +7878,9 @@
       "date": "2025-05-09",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Nicholas",
-        "Liam"
+        "Tim Sam Ann Greg Nicholas Liam"
       ],
       "TimeIn": "10:15",
       "TimeOut": "12:15",
@@ -8279,14 +7891,9 @@
       "date": "2025-05-09",
       "client": "Herons Landing",
       "propertyAddress": "Herons Landing",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Nicholas",
-        "Liam"
+        "Tim Sam Ann Greg Nicholas Liam"
       ],
       "TimeIn": "12:15",
       "TimeOut": "16:00",
@@ -8299,11 +7906,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Liam"
+        "Tim Sam Ann Greg Liam"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -8316,12 +7919,7 @@
       "propertyAddress": "Unbilled",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann",
-        "Greg"
+        "Tim Liam Nicholas Sam Ann Greg"
       ],
       "TimeIn": "08:15",
       "TimeOut": "08:45",
@@ -8334,12 +7932,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann",
-        "Greg"
+        "Tim Liam Nicholas Sam Ann Greg"
       ],
       "TimeIn": "08:45",
       "TimeOut": "13:00",
@@ -8352,9 +7945,7 @@
       "propertyAddress": "Tims",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "13:00",
       "TimeOut": "13:30",
@@ -8378,7 +7969,7 @@
       "date": "2025-05-12",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann",
         "Greg"
@@ -8394,9 +7985,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:30",
@@ -8407,7 +7996,7 @@
       "date": "2025-05-12",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -8422,8 +8011,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Ann",
-        "Greg"
+        "Ann Greg"
       ],
       "TimeIn": "14:45",
       "TimeOut": "16:00",
@@ -8434,11 +8022,9 @@
       "date": "2025-05-12",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -8466,9 +8052,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -8481,12 +8065,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg",
-        "Sam",
-        "Ann"
+        "Tim Liam Nicholas Greg Sam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -8514,10 +8093,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "07:45",
       "TimeOut": "13:15",
@@ -8530,10 +8106,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Liam Nicholas Greg"
       ],
       "TimeIn": "13:15",
       "TimeOut": "14:10",
@@ -8546,8 +8119,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "14:10",
       "TimeOut": "15:15",
@@ -8560,11 +8132,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Cam",
-        "Ann"
+        "Liam Nicholas Sam Cam Ann"
       ],
       "TimeIn": "15:15",
       "TimeOut": "16:15",
@@ -8590,9 +8158,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann"
+        "Tim Liam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:15",
@@ -8605,10 +8171,7 @@
       "propertyAddress": "Herons Landing",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas",
-        "Liam",
-        "Ann"
+        "Tim Nicholas Liam Ann"
       ],
       "TimeIn": "08:15",
       "TimeOut": "10:20",
@@ -8621,8 +8184,7 @@
       "propertyAddress": "Market Way",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Ann"
+        "Liam Ann"
       ],
       "TimeIn": "10:20",
       "TimeOut": "11:15",
@@ -8635,8 +8197,7 @@
       "propertyAddress": "Vandell Drive",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "10:20",
       "TimeOut": "11:45",
@@ -8649,8 +8210,7 @@
       "propertyAddress": "Meadowview",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Ann"
+        "Liam Ann"
       ],
       "TimeIn": "11:15",
       "TimeOut": "16:15",
@@ -8661,7 +8221,7 @@
       "date": "2025-05-14",
       "client": "Meadowview",
       "propertyAddress": "Meadowview",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -8700,7 +8260,7 @@
       "date": "2025-05-14",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -8726,7 +8286,7 @@
       "date": "2025-05-14",
       "client": "Meadowview",
       "propertyAddress": "Meadowview",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -8741,12 +8301,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Cam",
-        "Liam"
+        "Tim Sam Ann Greg Cam Liam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -8759,13 +8314,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Cam",
-        "Liam",
-        "Nicholas"
+        "Tim Sam Ann Greg Cam Liam Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "14:00",
@@ -8776,15 +8325,9 @@
       "date": "2025-05-15",
       "client": "Apple Creek",
       "propertyAddress": "Apple Creek",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Cam",
-        "Liam",
-        "Nicholas"
+        "Tim Sam Ann Greg Cam Liam Nicholas"
       ],
       "TimeIn": "14:00",
       "TimeOut": "16:00",
@@ -8797,12 +8340,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Cam",
-        "Liam"
+        "Tim Sam Ann Greg Cam Liam"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:15",
@@ -8815,12 +8353,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas",
-        "Evan"
+        "Tim Sam Liam Ann Nicholas Evan"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:50",
@@ -8833,12 +8366,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Nicholas",
-        "Evan"
+        "Tim Sam Liam Ann Nicholas Evan"
       ],
       "TimeIn": "07:50",
       "TimeOut": "13:00",
@@ -8851,11 +8379,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care ",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Nicholas",
-        "Evan"
+        "Tim Liam Ann Nicholas Evan"
       ],
       "TimeIn": "13:15",
       "TimeOut": "15:00",
@@ -8868,9 +8392,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Liam",
-        "Ann"
+        "Sam Liam Ann"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:00",
@@ -8881,11 +8403,9 @@
       "date": "2025-05-19",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Nicholas",
-        "Evan"
+        "Tim Nicholas Evan"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:00",
@@ -8911,13 +8431,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Cam",
-        "Kevin",
-        "Liam",
-        "Nicholas"
+        "Tim Sam Ann Cam Kevin Liam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "07:45",
@@ -8930,12 +8444,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Ann",
-        "Cam",
-        "Kevin",
-        "Liam",
-        "Nicholas"
+        "Sam Ann Cam Kevin Liam Nicholas"
       ],
       "TimeIn": "07:45",
       "TimeOut": "15:30",
@@ -8959,7 +8468,7 @@
       "date": "2025-05-20",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -8972,14 +8481,9 @@
       "date": "2025-05-20",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Sam",
-        "Ann",
-        "Cam",
-        "Kevin",
-        "Liam",
-        "Nicholas"
+        "Sam Ann Cam Kevin Liam Nicholas"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -8992,12 +8496,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Sam",
-        "Ann",
-        "Cam",
-        "Kevin",
-        "Liam",
-        "Nicholas"
+        "Sam Ann Cam Kevin Liam Nicholas"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:45",
@@ -9023,6 +8522,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
+        "Samm",
         "Ann",
         "Liam",
         "Nicholas",
@@ -9417,12 +8917,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam",
-        "Liam",
-        "Cam",
-        "Nicholas"
+        "Tim Ann Sam Liam Cam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -9435,9 +8930,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas",
-        "Cam"
+        "Liam Nicholas Cam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "16:00",
@@ -9450,9 +8943,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam"
+        "Tim Ann Sam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "14:00",
@@ -9478,9 +8969,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam"
+        "Tim Ann Sam"
       ],
       "TimeIn": "14:00",
       "TimeOut": "14:30",
@@ -9493,9 +8982,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam"
+        "Tim Ann Sam"
       ],
       "TimeIn": "14:30",
       "TimeOut": "15:30",
@@ -9508,9 +8995,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam"
+        "Tim Ann Sam"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -9797,7 +9282,7 @@
       "date": "2025-05-30",
       "client": "Cinema District",
       "propertyAddress": "Cinema District",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Liam",
         "Ann",
@@ -9831,12 +9316,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Greg",
-        "Nicholas"
+        "Tim Sam Liam Ann Greg Nicholas"
       ],
       "TimeIn": "08:30",
       "TimeOut": "09:00",
@@ -9849,12 +9329,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Liam",
-        "Ann",
-        "Greg",
-        "Nicholas"
+        "Tim Sam Liam Ann Greg Nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "13:30",
@@ -9867,8 +9342,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "13:45",
       "TimeOut": "14:15",
@@ -9881,10 +9355,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Liam",
-        "Ann",
-        "Greg"
+        "Sam Liam Ann Greg"
       ],
       "TimeIn": "13:45",
       "TimeOut": "16:15",
@@ -9897,8 +9368,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "14:15",
       "TimeOut": "15:15",
@@ -9911,8 +9381,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "15:15",
       "TimeOut": "15:45",
@@ -9925,8 +9394,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Nicholas"
+        "Tim Nicholas"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:30",
@@ -9939,9 +9407,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Sam",
-        "Liam",
-        "Ann"
+        "Sam Liam Ann"
       ],
       "TimeIn": "16:15",
       "TimeOut": "16:30",
@@ -9954,12 +9420,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Sam Ann Liam Nicholas Greg"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -9972,12 +9433,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Sam Ann Liam Nicholas Greg"
       ],
       "TimeIn": "08:00",
       "TimeOut": "15:00",
@@ -9990,12 +9446,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Sam Ann Liam Nicholas Greg"
       ],
       "TimeIn": "15:00",
       "TimeOut": "16:00",
@@ -10008,12 +9459,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Greg"
+        "Tim Sam Ann Liam Nicholas Greg"
       ],
       "TimeIn": "16:00",
       "TimeOut": "16:30",
@@ -10026,10 +9472,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Tim Greg Liam Nicholas"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -10056,10 +9499,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Tim Greg Liam Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "09:45",
@@ -10086,10 +9526,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Tim Greg Liam Nicholas"
       ],
       "TimeIn": "09:45",
       "TimeOut": "11:00",
@@ -10102,10 +9539,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Tim Greg Liam Nicholas"
       ],
       "TimeIn": "11:00",
       "TimeOut": "11:50",
@@ -10132,10 +9566,7 @@
       "propertyAddress": "Zion",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Tim Greg Liam Nicholas"
       ],
       "TimeIn": "11:50",
       "TimeOut": "12:45",
@@ -10161,9 +9592,7 @@
       "propertyAddress": "Meadowview",
       "service": "Lawn Care",
       "employees": [
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Greg Liam Nicholas"
       ],
       "TimeIn": "12:45",
       "TimeOut": "15:45",
@@ -10202,7 +9631,7 @@
       "date": "2025-06-04",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -10244,10 +9673,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam",
-        "Nicholas"
+        "Tim Greg Liam Nicholas"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:15",
@@ -10273,10 +9699,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam",
-        "Liam"
+        "Tim Ann Sam Liam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:15",
@@ -10289,11 +9712,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Nicholas",
-        "Liam"
+        "Tim Sam Ann Nicholas Liam"
       ],
       "TimeIn": "08:15",
       "TimeOut": "15:00",
@@ -10306,10 +9725,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Ann",
-        "Sam",
-        "Liam"
+        "Tim Ann Sam Liam"
       ],
       "TimeIn": "15:00",
       "TimeOut": "15:30",
@@ -10354,7 +9770,7 @@
       "date": "2025-06-06",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -10403,11 +9819,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Liam Nicholas Sam Ann"
       ],
       "TimeIn": "08:30",
       "TimeOut": "09:00",
@@ -10434,9 +9846,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care ",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "13:15",
@@ -10449,9 +9859,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care ",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas"
+        "Tim Liam Nicholas"
       ],
       "TimeIn": "13:45",
       "TimeOut": "15:30",
@@ -10739,7 +10147,7 @@
       "date": "2025-06-11",
       "client": "Parallel Apartments",
       "propertyAddress": "Parallel Apartments",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Liam",
         "Nicholas",
@@ -10836,7 +10244,7 @@
       "date": "2025-06-11",
       "client": "Market Way",
       "propertyAddress": "Market Way",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam"
       ],
@@ -10875,7 +10283,7 @@
       "date": "2025-06-11",
       "client": "Meadowview",
       "propertyAddress": "Meadowview",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Liam",
         "Nicholas",
@@ -10937,12 +10345,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Evan",
-        "Liam"
+        "Tim Sam Ann Greg Evan Liam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -10955,10 +10358,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Ann",
-        "Nicholas",
-        "Evan"
+        "Sam Ann Nicholas Evan"
       ],
       "TimeIn": "08:00",
       "TimeOut": "15:45",
@@ -10971,9 +10371,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Greg",
-        "Liam"
+        "Tim Greg Liam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "15:45",
@@ -10986,12 +10384,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Greg",
-        "Evan",
-        "Liam"
+        "Tim Sam Ann Greg Evan Liam"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:00",
@@ -11004,13 +10397,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Kevin",
-        "Evan"
+        "Tim Sam Ann Liam Nicholas Kevin Evan"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -11023,13 +10410,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Kevin",
-        "Evan"
+        "Tim Sam Ann Liam Nicholas Kevin Evan"
       ],
       "TimeIn": "08:00",
       "TimeOut": "15:45",
@@ -11042,13 +10423,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann",
-        "Liam",
-        "Nicholas",
-        "Kevin",
-        "Evan"
+        "Tim Sam Ann Liam Nicholas Kevin Evan"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:00",
@@ -11061,11 +10436,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Kevin",
-        "Nicholas"
+        "Tim Liam Ann Kevin Nicholas"
       ],
       "TimeIn": "08:30",
       "TimeOut": "09:00",
@@ -11078,11 +10449,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Kevin",
-        "Nicholas"
+        "Tim Liam Ann Kevin Nicholas"
       ],
       "TimeIn": "09:00",
       "TimeOut": "12:30",
@@ -11095,8 +10462,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Nicholas"
+        "Kevin Nicholas"
       ],
       "TimeIn": "12:30",
       "TimeOut": "13:00",
@@ -11109,9 +10475,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann"
+        "Tim Liam Ann"
       ],
       "TimeIn": "12:30",
       "TimeOut": "14:45",
@@ -11124,8 +10488,7 @@
       "propertyAddress": "Seven Oaks",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Nicholas"
+        "Kevin Nicholas"
       ],
       "TimeIn": "13:00",
       "TimeOut": "14:15",
@@ -11138,8 +10501,7 @@
       "propertyAddress": "Westwood",
       "service": "Pruning",
       "employees": [
-        "Kevin",
-        "Nicholas"
+        "Kevin Nicholas"
       ],
       "TimeIn": "14:15",
       "TimeOut": "15:30",
@@ -11150,11 +10512,9 @@
       "date": "2025-06-16",
       "client": "Westwood",
       "propertyAddress": "Westwood",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann"
+        "Tim Liam Ann"
       ],
       "TimeIn": "14:45",
       "TimeOut": "15:30",
@@ -11167,11 +10527,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Ann",
-        "Kevin",
-        "Nicholas"
+        "Tim Liam Ann Kevin Nicholas"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -11184,12 +10540,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Kevin Nicholas Liam Ann Sam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -11202,12 +10553,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Kevin Nicholas Liam Ann Sam"
       ],
       "TimeIn": "08:00",
       "TimeOut": "13:15",
@@ -11220,12 +10566,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Tim Kevin Nicholas Liam Ann Sam"
       ],
       "TimeIn": "13:15",
       "TimeOut": "15:45",
@@ -11251,11 +10592,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Kevin",
-        "Nicholas",
-        "Liam",
-        "Ann",
-        "Sam"
+        "Kevin Nicholas Liam Ann Sam"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:00",
@@ -11394,7 +10731,7 @@
       "date": "2025-06-18",
       "client": "Vantage",
       "propertyAddress": "Vantage",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -11485,7 +10822,7 @@
       "date": "2025-06-19",
       "client": "Vantage",
       "propertyAddress": "Vantage",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann",
@@ -11595,11 +10932,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Kevin Nicholas Sam Ann"
       ],
       "TimeIn": "08:30",
       "TimeOut": "09:00",
@@ -11612,11 +10945,7 @@
       "propertyAddress": "Still Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Kevin Nicholas Sam Ann"
       ],
       "TimeIn": "09:00",
       "TimeOut": "13:00",
@@ -11643,9 +10972,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas"
+        "Tim Kevin Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:00",
@@ -11670,7 +10997,7 @@
       "date": "2025-06-23",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -11700,11 +11027,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Nicholas",
-        "Sam",
-        "Liam",
-        "Ann"
+        "Tim Nicholas Sam Liam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -11717,11 +11040,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Nicholas",
-        "Sam",
-        "Liam",
-        "Ann"
+        "Tim Nicholas Sam Liam Ann"
       ],
       "TimeIn": "08:00",
       "TimeOut": "13:45",
@@ -11732,10 +11051,9 @@
       "date": "2025-06-24",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Ann",
-        "Liam"
+        "Ann Liam"
       ],
       "TimeIn": "13:45",
       "TimeOut": "15:45",
@@ -11748,9 +11066,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Nicholas",
-        "Sam"
+        "Tim Nicholas Sam"
       ],
       "TimeIn": "13:45",
       "TimeOut": "15:45",
@@ -11763,11 +11079,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Nicholas",
-        "Sam",
-        "Liam",
-        "Ann"
+        "Tim Nicholas Sam Liam Ann"
       ],
       "TimeIn": "15:45",
       "TimeOut": "16:00",
@@ -11780,11 +11092,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Nicholas",
-        "Sam",
-        "Ann"
+        "Tim Liam Nicholas Sam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -11809,7 +11117,7 @@
       "date": "2025-06-25",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -11824,8 +11132,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "09:15",
@@ -11838,8 +11145,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "09:15",
       "TimeOut": "10:15",
@@ -11852,9 +11158,7 @@
       "propertyAddress": "Meadowview",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas",
-        "Tim"
+        "Liam Nicholas Tim"
       ],
       "TimeIn": "10:15",
       "TimeOut": "13:30",
@@ -11879,7 +11183,7 @@
       "date": "2025-06-25",
       "client": "Vandell Drive",
       "propertyAddress": "Vandell Drive",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Sam",
         "Ann"
@@ -11893,7 +11197,7 @@
       "date": "2025-06-25",
       "client": "Zion",
       "propertyAddress": "Zion",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -11908,8 +11212,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "13:30",
       "TimeOut": "14:15",
@@ -11936,9 +11239,7 @@
       "propertyAddress": "Cinema District",
       "service": "Pruning",
       "employees": [
-        "Liam",
-        "Nicholas",
-        "Tim"
+        "Liam Nicholas Tim"
       ],
       "TimeIn": "14:15",
       "TimeOut": "15:40",
@@ -11965,9 +11266,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Liam",
-        "Nicholas",
-        "Tim"
+        "Liam Nicholas Tim"
       ],
       "TimeIn": "15:40",
       "TimeOut": "16:00",
@@ -11980,11 +11279,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Liam",
-        "Greg",
-        "Ann",
-        "Sam"
+        "Tim Liam Greg Ann Sam"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -11997,11 +11292,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Liam",
-        "Nicholas",
-        "Greg",
-        "Ann"
+        "Sam Liam Nicholas Greg Ann"
       ],
       "TimeIn": "08:00",
       "TimeOut": "13:30",
@@ -12027,11 +11318,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Sam",
-        "Liam",
-        "Nicholas",
-        "Greg",
-        "Ann"
+        "Sam Liam Nicholas Greg Ann"
       ],
       "TimeIn": "13:30",
       "TimeOut": "15:30",
@@ -12044,11 +11331,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim",
-        "Liam",
-        "Greg",
-        "Ann",
-        "Sam"
+        "Tim Liam Greg Ann Sam"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -12105,7 +11388,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim"
+        "Tim Jess Kevin Greg"
       ],
       "TimeIn": "08:30",
       "TimeOut": "09:00",
@@ -12134,7 +11417,7 @@
       "propertyAddress": "Westwood",
       "service": "Lawn Care",
       "employees": [
-        "Tim"
+        "Tim Jess Kevin Greg"
       ],
       "TimeIn": "09:00",
       "TimeOut": "10:30",
@@ -12147,7 +11430,7 @@
       "propertyAddress": "Westwood",
       "service": "Pruning",
       "employees": [
-        "Tim"
+        "Tim Jess Kevin Greg"
       ],
       "TimeIn": "10:30",
       "TimeOut": "15:40",
@@ -12192,7 +11475,7 @@
       "propertyAddress": "Unbilled",
       "service": "Dumping",
       "employees": [
-        "Tim"
+        "Tim Jess Kevin Greg"
       ],
       "TimeIn": "15:40",
       "TimeOut": "16:00",
@@ -12221,9 +11504,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Greg"
+        "Tim Kevin Greg"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -12250,7 +11531,7 @@
       "date": "2025-07-01",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Greg"
       ],
@@ -12265,8 +11546,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin"
+        "Tim Kevin"
       ],
       "TimeIn": "08:00",
       "TimeOut": "09:30",
@@ -12279,8 +11559,7 @@
       "propertyAddress": "Parallel Marketplace",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin"
+        "Tim Kevin"
       ],
       "TimeIn": "09:30",
       "TimeOut": "12:00",
@@ -12293,9 +11572,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Greg"
+        "Tim Kevin Greg"
       ],
       "TimeIn": "12:30",
       "TimeOut": "14:00",
@@ -12308,9 +11585,7 @@
       "propertyAddress": "Parallel Apartments",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Greg"
+        "Tim Kevin Greg"
       ],
       "TimeIn": "14:00",
       "TimeOut": "15:30",
@@ -12339,9 +11614,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Greg"
+        "Tim Kevin Greg"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:00",
@@ -12354,11 +11627,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Liam",
-        "Greg",
-        "Ann"
+        "Tim Kevin Liam Greg Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -12371,8 +11640,7 @@
       "propertyAddress": "Herons Landing",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "10:00",
@@ -12385,9 +11653,7 @@
       "propertyAddress": "Zion",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Greg",
-        "Ann"
+        "Kevin Greg Ann"
       ],
       "TimeIn": "08:00",
       "TimeOut": "09:00",
@@ -12400,9 +11666,7 @@
       "propertyAddress": "Meadowview",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Greg",
-        "Ann"
+        "Kevin Greg Ann"
       ],
       "TimeIn": "09:00",
       "TimeOut": "11:20",
@@ -12415,8 +11679,7 @@
       "propertyAddress": "Vandell Drive",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "10:00",
       "TimeOut": "11:00",
@@ -12440,8 +11703,7 @@
       "propertyAddress": "Market Way",
       "service": "Lawn Care",
       "employees": [
-        "Liam",
-        "Nicholas"
+        "Liam Nicholas"
       ],
       "TimeIn": "11:00",
       "TimeOut": "11:40",
@@ -12454,12 +11716,7 @@
       "propertyAddress": "Market Way",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Greg",
-        "Ann",
-        "Liam",
-        "Nicholas"
+        "Tim Kevin Greg Ann Liam Nicholas"
       ],
       "TimeIn": "12:10",
       "TimeOut": "15:00",
@@ -12472,10 +11729,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Greg",
-        "Ann",
-        "Liam"
+        "Tim Greg Ann Liam"
       ],
       "TimeIn": "15:00",
       "TimeOut": "15:30",
@@ -12488,9 +11742,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Ann"
+        "Tim Kevin Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -12503,10 +11755,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Lawn Care",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Ann",
-        "Nicholas"
+        "Tim Kevin Ann Nicholas"
       ],
       "TimeIn": "08:00",
       "TimeOut": "14:00",
@@ -12519,10 +11768,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Ann",
-        "Nicholas"
+        "Tim Kevin Ann Nicholas"
       ],
       "TimeIn": "14:00",
       "TimeOut": "15:30",
@@ -12549,9 +11795,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Ann"
+        "Tim Kevin Ann"
       ],
       "TimeIn": "15:30",
       "TimeOut": "16:30",
@@ -12562,7 +11806,7 @@
       "date": "2025-07-04",
       "client": "Bethesda",
       "propertyAddress": "Bethesda",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -12662,7 +11906,7 @@
       "date": "2025-07-07",
       "client": "Seven Oaks",
       "propertyAddress": "Seven Oaks",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Ann"
       ],
@@ -12704,12 +11948,9 @@
       "date": "2025-07-08",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Tim",
-        "Ann",
-        "Nicholas",
-        "Logan"
+        "Tim Ann Nicholas Logan"
       ],
       "TimeIn": "08:00",
       "TimeOut": "12:15",
@@ -12720,7 +11961,7 @@
       "date": "2025-07-08",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Greg"
       ],
@@ -12735,8 +11976,7 @@
       "propertyAddress": "Crown Point Villas II",
       "service": "Lawn Care",
       "employees": [
-        "Sam",
-        "Kevin"
+        "Sam Kevin"
       ],
       "TimeIn": "08:00",
       "TimeOut": "10:15",
@@ -12762,8 +12002,7 @@
       "propertyAddress": "Cinema District",
       "service": "Lawn Care",
       "employees": [
-        "Kevin",
-        "Greg"
+        "Kevin Greg"
       ],
       "TimeIn": "10:15",
       "TimeOut": "10:45",
@@ -12774,7 +12013,7 @@
       "date": "2025-07-08",
       "client": "Crown Point Villas II",
       "propertyAddress": "Crown Point Villas II",
-      "service": "Chemical Applications",
+      "service": "Chem",
       "employees": [
         "Sam"
       ],
@@ -12815,12 +12054,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Ann",
-        "Sam",
-        "Nicholas",
-        "Logan"
+        "Tim Kevin Ann Sam Nicholas Logan Josh"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:00",
@@ -12845,9 +12079,9 @@
       "date": "2025-07-09",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
-        "Logan"
+        "Logan Josh"
       ],
       "TimeIn": "08:00",
       "TimeOut": "13:00",
@@ -12941,10 +12175,7 @@
       "propertyAddress": "Meadowview",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Kevin",
-        "Nicholas",
-        "Logan"
+        "Tim Kevin Nicholas Logan Josh"
       ],
       "TimeIn": "13:00",
       "TimeOut": "16:00",
@@ -12985,9 +12216,7 @@
       "propertyAddress": "Unbilled",
       "service": "Shop",
       "employees": [
-        "Tim",
-        "Sam",
-        "Ann"
+        "Tim Sam Ann"
       ],
       "TimeIn": "07:30",
       "TimeOut": "08:15",
@@ -13013,8 +12242,7 @@
       "propertyAddress": "Apple Creek",
       "service": "Pruning",
       "employees": [
-        "Tim",
-        "Ann"
+        "Tim Ann"
       ],
       "TimeIn": "08:15",
       "TimeOut": "12:00",
@@ -13064,7 +12292,7 @@
       "date": "2025-07-11",
       "client": "Parallel Marketplace",
       "propertyAddress": "Parallel Marketplace",
-      "service": "Bed Maintenance",
+      "service": "Beds",
       "employees": [
         "Tim"
       ],
@@ -13163,112 +12391,57 @@
       "id": 10,
       "fullName": "Apple Creek",
       "address": "Apple Creek",
-      "services": {
-        "Lawn Care": 900,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 700,
-        "Pruning": 588,
-        "Bed Maintenance": 0,
-        "Leaf Cleanup": 112,
-        "Tree Pruning": 84,
-        "Chemical Applications": 12,
-        "Extras": 0
-      }
+      "services": {}
     },
     {
       "id": 11,
       "fullName": "Bethesda",
       "address": "Bethesda",
-      "services": {
-        "Bed Maintenance": 200
-      }
+      "services": {}
     },
     {
       "id": 12,
       "fullName": "Cinema District",
       "address": "Cinema District",
-      "services": {
-        "Lawn Care": 45,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 196,
-        "Pruning": 0,
-        "Bed Maintenance": 0,
-        "Leaf Cleanup": 0,
-        "Tree Pruning": 0,
-        "Chemical Applications": 1,
-        "Extras": 0
-      }
+      "services": {}
     },
     {
       "id": 13,
       "fullName": "Crown Point Villas II",
       "address": "Crown Point Villas II",
       "services": {
-        "Lawn Care": 1050,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 700,
-        "Tree Pruning": 116,
-        "Chemical Applications": 32,
-        "Green Waste Removal": 22,
-        "Extras": 0
+        "Lawn Care": 420
       }
     },
     {
       "id": 14,
       "fullName": "Herons Landing",
       "address": "Herons Landing",
-      "services": {
-        "Lawn Care": 135,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 120,
-        "Pruning": 0,
-        "Bed Maintenance": 0,
-        "Leaf Cleanup": 0,
-        "Tree Pruning": 0,
-        "Chemical Applications": 3,
-        "Extras": 0
-      }
+      "services": {}
     },
     {
       "id": 15,
       "fullName": "Market Way",
       "address": "Market Way",
-      "services": {
-        "Lawn Care": 62,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 130,
-        "Pruning": 0,
-        "Bed Maintenance": 0,
-        "Leaf Cleanup": 0,
-        "Tree Pruning": 0,
-        "Chemical Applications": 3,
-        "Extras": 0
-      }
+      "services": {}
     },
     {
       "id": 16,
       "fullName": "Meadowview",
       "address": "Meadowview",
-      "services": {
-        "Lawn Care": 384,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 285,
-        "Pruning": 168,
-        "Bed Maintenance": 36,
-        "Leaf Cleanup": 81,
-        "Tree Pruning": 0,
-        "Chemical Applications": 8,
-        "Extras": 0
-      }
+      "services": {}
+    },
+    {
+      "id": 17,
+      "fullName": "Meeting with Fred",
+      "address": "Meeting with Fred",
+      "services": {}
     },
     {
       "id": 18,
       "fullName": "Parallel Apartments",
       "address": "Parallel Apartments",
-      "services": {
-        "Lawn Care": 140,
-        "Pruning + Bed Maintenance + Leaf Cleanup": 280,
-        "Pruning": 0,
-        "Bed Maintenance": 0,
-        "Leaf Cleanup": 0,
-        "Tree Pruning": 0,
-        "Chemical Applications": 16,
-        "Extras": 0
-      }
+      "services": {}
     },
     {
       "id": 19,
