@@ -8348,8 +8348,8 @@
     {
       "id": 573,
       "date": "2025-05-12",
-      "client": "Tims",
-      "propertyAddress": "Tims",
+      "client": "Tim",
+      "propertyAddress": "Tim",
       "service": "Lawn Care",
       "employees": [
         "Tim",
@@ -13148,18 +13148,6 @@
       }
     },
     {
-      "id": 8,
-      "fullName": "38819 Vye Rd",
-      "address": "38819 Vye Rd",
-      "services": {}
-    },
-    {
-      "id": 9,
-      "fullName": "40881 NO 1 Rd",
-      "address": "40881 NO 1 Rd",
-      "services": {}
-    },
-    {
       "id": 10,
       "fullName": "Apple Creek",
       "address": "Apple Creek",
@@ -13274,67 +13262,125 @@
       "id": 19,
       "fullName": "Parallel Marketplace",
       "address": "Parallel Marketplace",
-      "services": {}
+      "services": {
+        "Lawn Care": 300,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 140,
+        "Pruning": 0,
+        "Bed Maintenance": 0,
+        "Leaf Cleanup": 0,
+        "Tree Pruning": 63,
+        "Chemical Applications": 9,
+        "Extras": 0
+      }
     },
     {
       "id": 20,
       "fullName": "Seven Oaks",
       "address": "Seven Oaks",
-      "services": {}
+      "services": {
+        "Lawn Care": 112,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 105,
+        "Pruning": 0,
+        "Bed Maintenance": 0,
+        "Leaf Cleanup": 0,
+        "Tree Pruning": 0,
+        "Chemical Applications": 4,
+        "Extras": 0
+      }
     },
     {
       "id": 21,
       "fullName": "Still Creek",
       "address": "Still Creek",
-      "services": {}
+      "services": {
+        "Lawn Care": 600,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 420,
+        "Pruning": 0,
+        "Bed Maintenance": 0,
+        "Leaf Cleanup": 0,
+        "Tree Pruning": 0,
+        "Chemical Applications": 20,
+        "Extras": 0
+      }
     },
     {
       "id": 22,
       "fullName": "Tim",
-      "address": "Tim",
-      "services": {}
-    },
-    {
-      "id": 23,
-      "fullName": "Tims",
-      "address": "Tims",
-      "services": {}
+      "address": "Tim's House",
+      "services": {
+        "Lawn Care": 600
+      }
     },
     {
       "id": 24,
       "fullName": "Unbilled",
       "address": "Unbilled",
-      "services": {}
-    },
-    {
-      "id": 25,
-      "fullName": "Unbilled",
-      "address": "Unbilled",
-      "services": {}
+      "services": {
+        "Dumping": 0,
+        "Shop": 0,
+        "Extras": 0,
+        "Meeting": 0
+      }
     },
     {
       "id": 26,
       "fullName": "Vandell Drive",
       "address": "Vandell Drive",
-      "services": {}
+      "services": {
+        "Lawn Care": 120,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 168,
+        "Pruning": 0,
+        "Bed Maintenance": 0,
+        "Leaf Cleanup": 0,
+        "Tree Pruning": 0,
+        "Chemical Applications": 4,
+        "Extras": 0
+      }
     },
     {
       "id": 27,
       "fullName": "Vantage",
       "address": "Vantage",
-      "services": {}
+      "services": {
+        "Lawn Care": 0,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 138,
+        "Pruning": 42,
+        "Bed Maintenance": 64,
+        "Leaf Cleanup": 32,
+        "Tree Pruning": 0,
+        "Chemical Applications": 6,
+        "Extras": 0
+      }
     },
     {
       "id": 28,
       "fullName": "Westwood",
       "address": "Westwood",
-      "services": {}
+      "services": {
+        "Lawn Care": 198,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 224,
+        "Pruning": 0,
+        "Bed Maintenance": 0,
+        "Leaf Cleanup": 0,
+        "Tree Pruning": 0,
+        "Chemical Applications": 8,
+        "Extras": 0
+      }
     },
     {
       "id": 29,
       "fullName": "Zion",
       "address": "Zion",
-      "services": {}
+      "services": {
+        "Lawn Care": 53,
+        "Pruning + Bed Maintenance + Leaf Cleanup": 12,
+        "Prune": 0,
+        "Beds": 0,
+        "Leaf": 0,
+        "Tree Pruning": 0,
+        "Chemical Applications": 0,
+        "Extras": 0
+      }
     }
   ],
   "activeTimers": []
